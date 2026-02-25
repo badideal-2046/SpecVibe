@@ -2,7 +2,7 @@
 
 **An executable, spec-driven framework for building production-ready AI-native applications.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg )](https://opensource.org/licenses/MIT ) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg )](CONTRIBUTING.md) [![ClawHub](https://img.shields.io/badge/ClawHub-v1.0.0-blue )](https://clawhub.ai/skills/YOUR_USERNAME/SpecVibe ) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg )](https://opensource.org/licenses/MIT ) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg )](CONTRIBUTING.md) [![ClawHub](https://img.shields.io/badge/ClawHub-v1.0.0-blue )](https://clawhub.ai/skills/badideal-2046/SpecVibe ) 
 
 SpecVibe is not just a collection of guidelines; it is a complete, structured, and executable framework designed to be integrated directly into modern AI coding assistants like Claude Code, OpenClaw, and Cursor. It enforces a rigorous, seven-stage development workflow, ensuring every project is architected, built, tested, and deployed according to 2026 industry best practices.
 

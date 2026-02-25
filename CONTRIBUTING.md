@@ -6,8 +6,8 @@ First off, thank you for considering contributing. Your help is essential for ke
 
 ### Reporting Bugs
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/YOUR_USERNAME/SpecVibe/issues ).
-- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/YOUR_USERNAME/SpecVibe/issues/new ). Be sure to include a clear title, a specific description, and as much relevant information as possible.
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/badideal-2046/SpecVibe/issues ).
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/badideal-2046/SpecVibe/issues/new ). Be sure to include a clear title, a specific description, and as much relevant information as possible.
 
 ### Suggesting Enhancements
 
