@@ -1,6 +1,8 @@
 ---
 name: SpecVibe
-description: A world-class, spec-driven development framework for building production-ready, AI-native applications. Use for any new project to ensure adherence to the most advanced 2026 best practices in architecture, security, testing, and deployment.
+description: An executable, spec-driven framework for building production-ready AI-native applications. Based on 2026 best practices.
+version: 1.0.0
+tags: ["spec-driven-development", "ai-native", "vibe-coding", "development-framework", "best-practices", "security", "testing", "devops"]
 ---
 
 # SpecVibe: The AI-Native Development Framework
